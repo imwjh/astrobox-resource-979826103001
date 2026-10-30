@@ -1,0 +1,58 @@
+{
+  "item": {
+    "id": "979826103001",
+    "restype": "watchface",
+    "name": "大薯条",
+    "description": "把快餐店的那盒薯条，搬上手腕大薯条 · 电量可视化表盘 / 红盒 · 金黄 · 一根一根数给你看\n灵感\n柜台边那盒外带薯条——\n红盒、金黄、一根根竖着，\n它天生就是个好读的刻度。\n搬上手腕\n同一只盒子放进方屏，\n时间压在盒面上，\n星期与日期落在盒身；\n屏幕有大小，胃口是一个。\n电量 = 薯条数\n满电一盒十根，掉一格就少吃一根。不用读数字，瞄一眼就知道还剩多少电。\n\n今日起至 11 月 30 日享 9 折，实付 3.89 元\n\n小米手环9、10待实机测试，加快发布请加群 🐧1127170328",
+    "preview": [
+      "media/02_主图_2x3_结果.png",
+      "media/03_AOD_2x3_结果.png",
+      "media/04_理念_2x3_结果.png"
+    ],
+    "icon": "media/图标.png",
+    "cover": "media/01_头图_3x2_结果.png",
+    "author": [
+      {
+        "name": "seegood",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "联系我",
+      "url": "https://imwjh.com/contact",
+      "icon": "envelope-open"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "0.0.0",
+      "file_name": "downloads/26-RW5-大薯条-10-30-09-44.bin",
+      "versionCode": 0
+    },
+    "xmrw5xring": {
+      "version": "0.0.0",
+      "file_name": "downloads/26-RW5-大薯条-10-30-09-44.bin",
+      "versionCode": 0
+    },
+    "xmrw6": {
+      "version": "0.0.0",
+      "file_name": "downloads/26-01-大薯条-10-30-10-06.bin",
+      "versionCode": 0
+    },
+    "xmb10p": {
+      "version": "0.0.0",
+      "file_name": "downloads/26-B10P-大薯条-10-30-10-05.bin",
+      "versionCode": 0
+    },
+    "xmb9p": {
+      "version": "0.0.0",
+      "file_name": "downloads/26-B10P-大薯条-10-30-10-05.bin",
+      "versionCode": 0
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
